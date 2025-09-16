@@ -4,6 +4,9 @@
 A RESTful API built with Java and Spring Boot for managing student data.  
 Supports basic CRUD (Create, Read, Update, Delete) operations.
 
+## Screenshot
+![Student API Screenshot](image/api_ss.png)
+
 ## Features
 - Add new students
 - View all students or a single student by ID
