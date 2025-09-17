@@ -19,7 +19,7 @@ Supports basic CRUD (Create, Read, Update, Delete) operations.
 - Spring Boot
 - Spring Web
 - Spring Data JPA
-- Database: MySQL / PostgreSQL
+- Database: MySQL
 
 ## Setup & Run
 1. Clone the repository:
