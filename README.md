@@ -24,4 +24,4 @@ Supports basic CRUD (Create, Read, Update, Delete) operations.
 ## Setup & Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/pratikbarethiyaa/student_api.git
+   https://github.com/pratikbarethiyaa/student_api.git
